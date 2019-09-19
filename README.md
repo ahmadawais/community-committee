@@ -62,41 +62,40 @@ initiative as needed.
 A review of the initiatives will be a standing item on the Community Committee
 agenda (even if the update is 'nothing new') as a way to ensure they are active
 and have the support needed.
-
 ### Current Initiatives
 
-| Initiative             | Champion(s)                    | CommComm Liason |  Link                           |
-|------------------------|--------------------------------|---------------------------------------------------|
-| i18n                   | [obensource]                   |                 | [nodejs/i18n]                   |
-| Mentorship             | [Bamieh]                       |                 | [nodejs/mentorship]             |
-| Social Media Delegates | [bnb]                          |                 | [nodejs/social-media-delegates] |
-| Node.js Collection     | [waleedashraf]                 |                 | [nodejs/nodejs-collection]      |
-| Outreach               | [AhmadAwais]                   |                 | [nodejs/outreach]               |
-| User Feedback          | [dshaw]                        |                 | [nodejs/user-feedback]          |
-| Website Redesign       | [amiller-gh] and [keywordnew]  |                 | [nodejs/nodejs.dev]             |
-| Enterprise Usr Feeback | Ahmad Nassri                   | [mhdawson]      | [nodejs/user-feedback]          |
+|       Initiative       |          Champion(s)          | CommComm Liason |              Link               |
+| ---------------------- | ----------------------------- | --------------- | ------------------------------- |
+| i18n                   | [obensource]                  |                 | [nodejs/i18n]                   |
+| Mentorship             | [Bamieh]                      |                 | [nodejs/mentorship]             |
+| Social Media Delegates | [bnb]                         |                 | [nodejs/social-media-delegates] |
+| Node.js Collection     | [waleedashraf]                |                 | [nodejs/nodejs-collection]      |
+| Outreach               | [AhmadAwais]                  |                 | [nodejs/outreach]               |
+| User Feedback          | [dshaw]                       |                 | [nodejs/user-feedback]          |
+| Website Redesign       | [amiller-gh] and [keywordnew] |                 | [nodejs/nodejs.dev]             |
+| Enterprise Usr Feeback | Ahmad Nassri                  | [mhdawson]      | [nodejs/user-feedback]          |
 
 ### In Need of Champion
 
-| Initiative                | Previous Champion | Links                                                      |
-|---------------------------|------------------ |------------------------------------------------------------|
-| NodeTogether              | [rachelnicole]    | https://github.com/nodejs/community-committee/issues/63    |
-| Office Hours              | [bnb]             | https://github.com/nodejs/community-committee/issues/157   |
-| Code + Learn Friendliness | ?                 | https://github.com/nodejs/community-committee/issues/158   |
-| How I Got Into Node       | ?                 | https://github.com/nodejs/community-committee/issues/138   |
-| Node.js People Everywhere | ?                 | https://github.com/nodejs/community-committee/issues/184   |
-| This week in Core         | ?                 | https://github.com/nodejs/community-committee/issues/148   |
-| User Feedback             |                   | [nodejs/user-feedback]                                     |
+|        Initiative         | Previous Champion |                          Links                           |
+| ------------------------- | ----------------- | -------------------------------------------------------- |
+| NodeTogether              | [rachelnicole]    | https://github.com/nodejs/community-committee/issues/63  |
+| Office Hours              | [bnb]             | https://github.com/nodejs/community-committee/issues/157 |
+| Code + Learn Friendliness | ?                 | https://github.com/nodejs/community-committee/issues/158 |
+| How I Got Into Node       | ?                 | https://github.com/nodejs/community-committee/issues/138 |
+| Node.js People Everywhere | ?                 | https://github.com/nodejs/community-committee/issues/184 |
+| This week in Core         | ?                 | https://github.com/nodejs/community-committee/issues/148 |
+| User Feedback             |                   | [nodejs/user-feedback]                                   |
 
 # Completed / Retired
 
-| Initiative                | Champion       | Links               | Notes                                                 |
-|---------------------------|----------------|---------------------|-------------------------------------------------------|
-| Education                 | [hackygolucky] | [nodejs/education]  | Absorbed by the Website Redesign Initiative           |
-| Evangelism WG             | [bnb]          | [nodejs/evangelism] | Responsibilities absorbed by CommComm                 |
-| Community Events          | Patrick Heneise| [nodejs/community-events]|Repository Archived                               |
-| Badges                    | [amiller-gh]   | [nodejs/badges]     | On pause until design is refined in website-redesign  |
-| Open-source Friday        | ?              | https://github.com/nodejs/community-committee/issues/180 | No clear project |
+|     Initiative     |    Champion     |                          Links                           |                        Notes                         |
+| ------------------ | --------------- | -------------------------------------------------------- | ---------------------------------------------------- |
+| Education          | [hackygolucky]  | [nodejs/education]                                       | Absorbed by the Website Redesign Initiative          |
+| Evangelism WG      | [bnb]           | [nodejs/evangelism]                                      | Responsibilities absorbed by CommComm                |
+| Community Events   | Patrick Heneise | [nodejs/community-events]                                | Repository Archived                                  |
+| Badges             | [amiller-gh]    | [nodejs/badges]                                          | On pause until design is refined in website-redesign |
+| Open-source Friday | ?               | https://github.com/nodejs/community-committee/issues/180 | No clear project                                     |
 
 
 ## Labels for Issues and PRs
